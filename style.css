@@ -1,0 +1,41 @@
+html {
+    background-color: #9932cc;
+    font-family: cursive;
+    font-size: 15pt;
+    color: greenyellow;
+    text-align: center;
+}
+
+h1 {
+    color: blanchedalmond;
+    font-size: 2.5rem;
+}
+
+h4 {
+    font-size: 1.5rem;
+    color: beige;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+#list {
+    font-weight: 100;
+    font-style: italic;
+     ;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+li {
+    text-align: center;
+}
+
+li::marker {
+    text-align: center;
+    color: darkorchid;
+}
